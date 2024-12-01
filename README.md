@@ -1,4 +1,4 @@
-# **Advanced Q&A System Using Llama3 and RAG**
+# **Local Q&A System Using Llama3 and RAG**
 
 ![Futuristic AI Interface](UI Image.png)
 
